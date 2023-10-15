@@ -1,1 +1,2 @@
-# CSharp-in-Action
+# CSharp in Action
+{Awesome Works in Progress}
